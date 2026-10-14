@@ -17,7 +17,7 @@ The project also includes a monitoring dashboard with drone position visualizati
 
 ## Discord Music Bot:
 
-- A small Discord bot that plays music in a voice channel, built with Python, discord.py and yt-dlp.
+A small Discord bot that plays music in a voice channel, built with Python, discord.py and yt-dlp.
 
 Slash commands: /play, /skip, /pause, /resume, /queue and /stop
 Search by name or link: finds songs on YouTube first, falls back to SoundCloud, and accepts YouTube and SoundCloud links directly
