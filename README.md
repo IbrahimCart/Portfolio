@@ -15,6 +15,12 @@ Developed as part of a collaborative software engineering project, this Java-bas
 The project also includes a monitoring dashboard with drone position visualization, anomaly logging, and database integration for storing and retrieving detected issues. I contributed to anomaly detection, dashboard functionality, unit testing, debugging, and code documentation. Throughout development, our team used Git and GitHub for version control, Maven for project management, and JUnit for testing and reliability.
 
 
+## Portfolio Website for TCSS 490
+
+A portfolio website for TCSS 490: Special Topics in Computing at the University of Washington. It showcases the projects I complete during the quarter, along with a prompt log documenting how I use AI tools. It’s built with plain HTML, CSS and JavaScript and hosted on GitHub Pages.
+
+All content lives in one data file, and the page builds itself from it. Project cards show a status badge, summary, technologies and links, and a progress counter updates automatically, so adding a project or a new course takes only a few lines. The site is responsive, supports light and dark mode, and was built with AI assistance, which I document in the prompt log.
+
 ## Discord Music Bot:
 
 A small Discord bot that plays music in a voice channel, built with Python, discord.py and yt-dlp.
