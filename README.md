@@ -8,7 +8,7 @@ I haven't been updating this in the past but I will be adding my previous projec
 
 Projects:
 
-## Autonomus Drone: 
+## Autonomous Drone: 
 
 Developed as part of a collaborative software engineering project, this Java-based application simulates and monitors autonomous drones in real time. The system generates drone telemetry, tracks information such as location, altitude, speed, heading, and battery level, and detects unusual behavior, including sudden GPS changes, unsafe movements, and low battery levels.
 
