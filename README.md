@@ -1,5 +1,5 @@
 # Portfolio
-I'm Ibrahim Cartan, and this is verything about me.
+I'm Ibrahim Cartan, and this is everything about me.
 
 About me:
 My name is Ibrahim Cartan, I'm currently 25 years old and im majoring in Computer Science and Systems and Minoring in Business Administration.
